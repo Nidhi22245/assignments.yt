@@ -63,17 +63,6 @@ public class BarkingDog {
 		
 	}
 	
-//	 public static boolean shouldWakeUp (boolean barking, int hourOfDay){
-//         boolean status = false;
-//         if (barking) {
-//             if ((hourOfDay < 0) || (hourOfDay > 23)) {
-//                 status = false;
-//             } else if ((hourOfDay < 8) || (hourOfDay > 22)) {
-//                 status = true;
-//             }
-//             return status;
-//         }
-//		return status;
-//     }
+
 
 }
